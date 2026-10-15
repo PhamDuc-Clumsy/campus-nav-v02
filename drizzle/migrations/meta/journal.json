@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791450036289,
+      "tag": "0000_add_campus_extra_fields",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791451143286,
+      "tag": "0001_create_rooms",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791510492450,
+      "tag": "0002_create_floor_plans",
+      "breakpoints": true
+    }
+  ]
+}
